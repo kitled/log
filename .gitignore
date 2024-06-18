@@ -1,0 +1,6 @@
+# ignore all files in the .vscode folder
+.vscode
+
+# ignore all files in the .idea folder
+.idea
+
