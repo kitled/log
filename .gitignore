@@ -4,3 +4,5 @@
 # ignore all files in the .idea folder
 .idea
 
+# ignore all test files
+*.test.txt
