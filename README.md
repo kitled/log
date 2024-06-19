@@ -1,6 +1,4 @@
-⚠️ Project in development. Use at your own risk! ⚠️
-
----
+>🚧 　*Unready.* 　🡆 **WiP!**　 🚧
 
 # log
 
