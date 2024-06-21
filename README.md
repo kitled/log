@@ -2,4 +2,4 @@
 
 # log
 
-`log` lets you record anything to a database (SQLite by default).
+`log` lets you record anything to a database (SQLite by default) + plain text files.
