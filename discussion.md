@@ -14,7 +14,8 @@ Open thinking about the ideal `log` thing.
 
 #### atomic rollback
 
-Case to solve: "I want to undo this old command from my system, but keep everything else that happened since."
+> **Case to solve**  
+> *"I want to undo this old command from my system, but keep everything else that happened since."*
 
 `log` should let you rollback any command from wherever in history.  
 If you did `touch this`, then it should `rm /home/$USER/this.file` to undo it.  
